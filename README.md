@@ -1,5 +1,3 @@
-# Leo Traxel
-
 ## Who I Am
 
 3D printing enthusiast learning to program. I'm a maker who wants to bring software skills into my toolkit.
